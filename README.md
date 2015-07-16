@@ -1,2 +1,0 @@
-# launcher.user.js
-adsadsadsada
